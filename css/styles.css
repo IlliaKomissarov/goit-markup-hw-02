@@ -77,8 +77,7 @@ body {
 .contact-item:hover,
 .contact-item:focus
 {
-    background-color: var(--accent-color);
-        color: var(--white-color);
+        color: var(--accent-color);
 }
 
 .hero {background-color: var(--bg-footer-color);
